@@ -3,6 +3,5 @@
 - I’m currently learning JavaScript, HTML, CSS
 - Will happily collaborate! I'm a beginner, but eager to learn.
 - Reach me at viihna@voidfucker.com
-- 
 - Pronouns: she/her
 - Fun fact: I also love to play bass guitar 😎
