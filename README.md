@@ -1,6 +1,6 @@
 - Hi, I’m Viihna / @viihna-lehraine. I've been making web pages and small JavaScript projects since February 2024
-- I’m interested in webdev, crytography, and data science
-- Currently learning vanilla JavaScript, HTML, and CSS
+- I’m interested in web and software development. I also have a fascination with cryptography and plan to try my hand at game dev in the next 12 months 
+- Currently learning JS, Node.js, and Postgre and building full stack applications
 - Will happily collaborate! I'm a beginner, but eager to learn.
 - Reach me at viihna@viihnatech.com
 - she/her
