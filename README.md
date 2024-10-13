@@ -1,7 +1,6 @@
-- Hi, I’m Viihna / @viihna-lehraine. I've been making web pages and small JavaScript projects since February 2024
-- I’m interested in web and software development. I also have a fascination with cryptography and plan to try my hand at game dev in the next 12 months 
-- Currently learning JS, Node.js, and Postgre and building full stack applications
-- Will happily collaborate! I'm a beginner, but eager to learn.
+- Hi, I’m Viihna / @viihna-lehraine. I'm in my first year of programming and having a blast with it!
+- Currently learning full stack web app development using Node, React, TypeScript, and Postgres
+- Will happily collaborate! I'm VERY dedicated to and passionate about coding.
 - Reach me at viihna@viihnatech.com
 - she/her
-- Fun fact: I also love to play bass guitar 😎
+- Fun fact: I'm also writing my own rock album and producing it myself. I've played bass and guitar for more than half my life 😎
